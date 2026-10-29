@@ -1,0 +1,7 @@
+# originales sin optimizar (la web usa las versiones .webp)
+assets/*.png
+assets/*.jpg
+!assets/can-label.jpg
+# documentos internos y pruebas
+brief-de-marca.md
+_shot.html
